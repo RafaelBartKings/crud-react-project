@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rafael Bartolomeu Reis",
+      "email": "rafael.reis@cod3r.com"
+    },
+    {
+      "id": 2,
+      "name": "Aline Reis",
+      "email": "aline.reis@cod3r.com"
+    },
+    {
+      "name": "Jorge Rabelo",
+      "email": "jorgerabelo@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Rangel Alencar Alterar",
+      "email": "rangel.alencar@cod3r.com",
+      "id": 4
+    }
+  ]
+}
